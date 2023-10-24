@@ -7,7 +7,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class Input_Data {
+public class InputData {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Input your data in the following format: " +
